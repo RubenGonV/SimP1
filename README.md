@@ -3,7 +3,7 @@ Este repositorio incluye el código que resuelve los siguientes problemas:
 - Simulación de sucesos discretos en un aeropuerto
 - Algoritmo genético para resolver juego de cifras simplificado
 
-Una descripción de estos problemas se puede encontrar en el siguiente enunciado: [Enunciado 7.pdf](https://github.com/user-attachments/files/17976049/Enunciado.7.pdf)
+Una descripción de estos problemas se puede encontrar en el siguiente enunciado: [Enunciado 7.pdf](https://github.com/RubenGonV/Simulacion/blob/main/Enunciado%207.pdf)
 
 ## Integrantes del Proyecto
 
